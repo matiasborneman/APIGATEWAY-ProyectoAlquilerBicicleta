@@ -1,6 +1,10 @@
 # proyectoAlquilerBicicletas
 
+# DESCRIPCION DEL PROYECTO
 
+En este proyecto se encuentra el api Gateway, es decir la fachada del sistema de alquiler de bicicletas, este api es quien
+recibe las peticiones de los clientes y las redirecciona (dependiendo de la uri), al servicio de estaciones o servicio de alquileres,
+ademas de gestionar la autenticacion y autorizacion de los clientes y sus peticiones.
 
 ## Getting started
 
